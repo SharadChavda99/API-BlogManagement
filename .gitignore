@@ -3,6 +3,5 @@ bin/
 obj/
 
 # Visual Studio files
-*.sln
 *.user
 *.vs
